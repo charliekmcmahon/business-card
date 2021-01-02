@@ -1,5 +1,5 @@
 {
-    "name": "bradgarropy",
+    "name": "charliekmcmahon",
     "version": "2.1.0",
     "description": "🃏 npx business card",
     "keywords": [
@@ -11,15 +11,15 @@
         "parcel",
         "business-card"
     ],
-    "homepage": "https://github.com/bradgarropy/business-card",
+    "homepage": "https://github.com/charliekmcmahon/business-card",
     "bugs": {
-        "url": "https://github.com/bradgarropy/business-card/issues"
+        "url": "https://github.com/charliekmcmahon/business-card/issues"
     },
     "license": "MIT",
     "author": {
-        "name": "Brad Garropy",
-        "email": "bradgarropy@gmail.com",
-        "url": "https://bradgarropy.com"
+        "name": "Charlie McMahon",
+        "email": "charliekmcmahon@gmail.com",
+        "url": "https://macca.xyz"
     },
     "files": [
         "dist"
