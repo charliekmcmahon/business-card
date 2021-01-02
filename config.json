@@ -1,33 +1,21 @@
 {
     "info": {
-        "name": "Brad Garropy",
-        "handle": "bradgarropy",
-        "company": "Adobe",
-        "title": "Senior Frontend Developer",
+        "name": "Charlie McMahon",
+        "handle": "charliekmcmahon",
+        "company": "Macca's Tech",
+        "title": "Apple-Certified Mac & iOS Technican, Discord Verified Dev & Full Stack Developer",
         "links": [
             {
                 "name": "Website",
-                "url": "https://bradgarropy.com"
-            },
-            {
-                "name": "Twitch",
-                "url": "https://twitch.tv/bradgarropy"
+                "url": "https://macca.xyz"
             },
             {
                 "name": "GitHub",
-                "url": "https://github.com/bradgarropy"
+                "url": "https://github.com/charliekmcmahon"
             },
             {
                 "name": "Twitter",
-                "url": "https://twitter.com/bradgarropy"
-            },
-            {
-                "name": "YouTube",
-                "url": "https://youtube.com/bradgarropy"
-            },
-            {
-                "name": "LinkedIn",
-                "url": "https://linkedin.com/in/bradgarropy"
+                "url": "https://twitter.com/charliekmcmahon"
             }
         ]
     },
